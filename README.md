@@ -9,6 +9,7 @@ ip_lookup.py can be found here:
 https://github.com/dprszkrs-d3v-a1/whoisthis
 
 Usage:
+
   python extract_ips.py firewall.log
   python extract_ips.py firewall.log -o ips.txt
   python extract_ips.py access.log -o ips.txt --sort --global-only
